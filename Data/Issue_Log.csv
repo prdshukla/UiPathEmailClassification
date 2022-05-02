@@ -1,0 +1,6 @@
+﻿caller,business_service,category,subcategory,contact_type,configuration_item,impact,urgency,priority,assignment_group,assigned_to,short_description,description,Ticket_type,Number
+"""Sam W"" ",client services,Hardware,,,Email,2,2,3,,Andrew Och,Blue screen,"I got the windows blue screen, may be it's  time to replace my work pc.
+",incident,INC0010045
+"""pradeep shukla"" ",client services,Software,,,Email,2,2,3,,peter hays,No account found,"I have been trying to login to my workday account but I keep getting error
+messages.
+",incident,INC0010046
